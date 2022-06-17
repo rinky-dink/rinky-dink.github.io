@@ -1,0 +1,255 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+
+  <link href="../../css/style.css" rel="stylesheet">
+
+  <link rel="stylesheet" href="https://unpkg.com/flickity@2.3.0/dist/flickity.css">
+  <link rel="stylesheet" href="https://unpkg.com/flickity-fullscreen@1/fullscreen.css">
+
+
+  <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+
+
+</head>
+
+<body>
+
+  <div class="container">
+    <div class="py-5 text-center">
+      <div class="row">
+        <div class=" col-md-3 order-md-last table-of-contents">
+          <div class=" sticky-top shadow-lg p-3 mb-5 rounded">
+            <h1 style="padding-top: 68px;">Оглавление</h1>
+            <div class="nav flex-column nav-pills me-3" role="tablist" aria-orientation="vertical">
+              <a class="nav-link active" data-bs-toggle="pill" href="#firstcollage" aaria-selected="true">1. Первый фотоколлаж.</a>
+              <a class="nav-link" data-bs-toggle="pill" href="#secondcollage" aria-selected="false">2. Второй фотоколлаж.</a>
+              <a class="nav-link" data-bs-toggle="pill" href="#badphoto" aria-selected="false">3. Обработка неудачных фото</a>
+            </div>
+          </div>
+        </div>
+        <div class="contrainer col-xl-9 margin-white-bg p-5 m-0" >
+            <h1 id="firstcollage">Первый фотоллаж.</h1>
+            <h5>Кот лежит на крыше дома.</h5>
+            <div class="carousel" data-flickity='{"fullscreen": true, "wrapAround": true }'>
+              <div class="carousel-cell"> <img src="image/Фотоколлаж 1/1.jpg">
+                <div class="carousel-caption">
+                  <p>Имеется фото дома...</p>
+                </div>
+              </div>
+              <div class="carousel-cell"> <img src="image/Фотоколлаж 1/2.jpg">
+                <div class="carousel-caption">
+                  <p>И фото кошки.</p>
+                </div>
+              </div>
+              <div class="carousel-cell"> <img src="image/Фотоколлаж 1/3.png">
+                <div class="carousel-caption">
+                  <p>Сделал маску и отделил кошку от фона.</p>
+                </div>
+              </div>
+              <div class="carousel-cell"> <img src="image/Фотоколлаж 1/4.jpg">
+                <div class="carousel-caption">
+                  <p>Вставил кошку на фото с домом.</p>
+                </div>
+              </div>
+              <div class="carousel-cell"> <img src="image/Фотоколлаж 1/5.jpg">
+                <div class="carousel-caption">
+                  <p>Скопировал дерево,маской сделал прозрачные области и поставил этот слой выше, чем слой с кошкой.
+                  </p>
+                </div>
+              </div>
+              <div class="carousel-cell"> <img src="image/Фотоколлаж 1/Огромный кошак.jpg">
+                <div class="carousel-caption">
+                  <p>Добавил тени, людей снизу.</p>
+                </div>
+              </div>
+            </div>
+            <div class="container shadow-lg p-3 mb-5 bg-white rounded">
+              <div class="row">
+                <div class="text-center col-lg-6 col-md-6 col-12">
+                  <h4>Скачать .svg версию готового файла</h4>
+                  <p>Нажмите на кнопку ниже, чтобы скачать векторную версию изображения формата
+                    SVG, большая
+                    совместимость.</p>
+                  <a class="btn btn-primary btn-lg" href="image/toyota/Toyota.svg" role="button" download>Скачать</a>
+                </div>
+                <div class="text-center col-lg-6 col-md-6 col-12">
+                  <h3>Скачать .cdr версию готового файла</h3>
+                  <p>Нажмите на кнопку ниже, чтобы скачать векторную версию изображения,
+                    адаптированную под
+                    CorelDRAW(2021).</p>
+                  <a class="btn btn-success btn-lg" href="image/toyota/Toyota.cdr" role="button" download>Скачать</a>
+                  <p></p>
+                </div>
+              </div>
+            </div>
+
+            <h1 id="secondcollage">Второй фотоллаж.</h1>
+            <h5>Машина едит в дождь.</h5>
+            <div class="carousel" data-flickity='{"fullscreen": true, "wrapAround": true }'>
+              <div class="carousel-cell"> <img src="image/Фотоколлаж 2/1.jpg">
+                <div class="carousel-caption">
+                  <p>Имеется фото дороги...</p>
+                </div>
+              </div>
+              <div class="carousel-cell"> <img src="image/Фотоколлаж 2/2.jpg">
+                <div class="carousel-caption">
+                  <p>И машины.</p>
+                </div>
+              </div>
+              <div class="carousel-cell"> <img src="image/Фотоколлаж 2/3.png">
+                <div class="carousel-caption">
+                  <p>Вырезал машину, убрал некоторые отражения, изменил цвет через Camera Raw Filter.</p>
+                </div>
+              </div>
+              <div class="carousel-cell"> <img src="image/Фотоколлаж 2/4.png">
+                <div class="carousel-caption">
+                  <p>Добавил водителя.</p>
+                </div>
+              </div>
+              <div class="carousel-cell"> <img src="image/Фотоколлаж 2/5.jpg">
+                <div class="carousel-caption">
+                  <p>Полученную машину вставил на другое изображения, исправил перспективу.
+                  </p>
+                </div>
+              </div>
+              <div class="carousel-cell"> <img src="image/Фотоколлаж 2/6.png">
+                <div class="carousel-caption">
+                  <p>Вырезал небо, с помощью Camera Raw Filter сделал фон темнее.</p>
+                </div>
+              </div>
+              <div class="carousel-cell"> <img src="image/Фотоколлаж 2/7.jpg">
+                <div class="carousel-caption">
+                  <p>В интернете нашел небо, вставил в проект.</p>
+                </div>
+              </div>
+              <div class="carousel-cell"> <img src="image/Фотоколлаж 2/8.jpg">
+                <div class="carousel-caption">
+                  <p>Добавил следы от шин.</p>
+                </div>
+              </div>
+              <div class="carousel-cell"> <img src="image/Фотоколлаж 2/9.jpg">
+                <div class="carousel-caption">
+                  <p>В инернете нашел фотку луча прожектора и сделал фары. Сделал эмитацию размытия при движении.</p>
+                </div>
+              </div>
+              <div class="carousel-cell"> <img src="image/Фотоколлаж 2/10.jpg">
+                <div class="carousel-caption">
+                  <p>Добавил солнечного зайчека на фарах, молнию, капли от дождя.</p>
+                </div>
+              </div>
+              <div class="carousel-cell"> <img src="image/Фотоколлаж 2/Машина в дождь.jpg">
+                <div class="carousel-caption">
+                  <p>Добавил дождь поверх всех слоёв.</p>
+                </div>
+              </div>
+            </div>
+            <div class="container shadow-lg p-3 mb-5 bg-white rounded">
+              <div class="row">
+                <div class="text-center col-lg-6 col-md-6 col-12">
+                  <h4>Скачать .svg версию готового файла</h4>
+                  <p>Нажмите на кнопку ниже, чтобы скачать векторную версию изображения формата
+                    SVG, большая
+                    совместимость.</p>
+                  <a class="btn btn-primary btn-lg" href="image/toyota/Toyota.svg" role="button" download>Скачать</a>
+                </div>
+                <div class="text-center col-lg-6 col-md-6 col-12">
+                  <h3>Скачать .cdr версию готового файла</h3>
+                  <p>Нажмите на кнопку ниже, чтобы скачать векторную версию изображения,
+                    адаптированную под
+                    CorelDRAW(2021).</p>
+                  <a class="btn btn-success btn-lg" href="image/toyota/Toyota.cdr" role="button" download>Скачать</a>
+                  <p></p>
+                </div>
+              </div>
+            </div>
+
+            <h1 id="badphoto">Обработка неудачных фото</h1>
+            <h5>Суть задания: Обработка фотографий. Для этого имеются <a
+                href="assets/download/Некачестванные фото.zip">два варианта некачественных
+                фото</a>(темное и засвеченное). Необходимо их исправить. Можно использовать свои фото. Необходимо рядом
+              поставить исходное и исправленное фото.</h5>
+
+            <div class="before-after" style="max-width: 450px; margin: 0 auto; text-align:center; margin-bottom: 10px;">
+              <img src="image/1_original.jpg" width="450" class="imgresp" />
+              <img src="image/1_edit.jpg" width="450" class=" imgresp" />
+            </div>
+
+            <div class="before-after" style="max-width: 827px; margin: 0 auto; text-align:center;margin-bottom: 10px;">
+              <img src="image/2_original.jpg" width="827" class="imgresp" />
+              <img src="image/2_edit.jpg" width="827" class=" imgresp" />
+            </div>
+
+            <div class="before-after" style="max-width: 827px; margin: 0 auto; text-align:center;margin-bottom: 10px;">
+              <img src="image/3_original.jpg" width="827" class="imgresp" />
+              <img src="image/3_edit.jpg" width="827" class=" imgresp" />
+            </div>
+            <div class="before-after" style="max-width: 827px; margin: 0 auto; text-align:center;">
+              <img src="image/4_original.jpg" width="827" class="imgresp" />
+              <img src="image/4_edit.jpg" width="827" class=" imgresp" />
+            </div>
+
+            <div class="container shadow-lg p-3 mb-5 bg-white rounded" style="margin-top: 30px;">
+              <div class="row">
+                <div class="text-center col-lg-3 col-md-6 col-12">
+                  <h3>Скачать исходники</h3>
+                  <p>Нажмите на кнопку ниж чтобы скачать архив с исходными изображениям.</p>
+                  <a class="btn btn-danger btn-lg" href="download/Исходные изображения.zip" role="button">Скачать</a>
+                </div>
+                <div class="text-center col-lg-4 col-md-6 col-12">
+                  <h3>Скачать отредактированую версию</h3>
+                  <p>Нажмите на кнопку ниже, чтобы скачать архив с уже отредактированными изображениями.</p>
+                  <a class="btn btn-primary btn-lg" href="download/Отредактированные версии.zip"
+                    role="button">Скачать</a>
+                </div>
+                <div class="text-center col-lg-5 col-md-6 col-12">
+                  <h3>Скачать коллаж фоток в сравнении</h3>
+                  <p>Нажмите на кнопку ниже, чтобы скачать архив с коллажом оригинальной фотки с изменненой, чтобы
+                    увидеть
+                    разницу
+                    с подписями чтобы было проделано.</p>
+                  <a class="btn btn-success btn-lg" href="download/Коллаж.zip" role="button">Скачать</a>
+                  <p></p>
+                </div>
+              </div>
+          </div>
+        </div>
+      </div>
+      <footer>
+        <div class="container">
+            <div class="col-9">
+              <p>Copyright © Rinky's website. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+    </div>
+  </div>
+  <div class="floating-window">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <input type="submit" name="image" class="to-up" value="" style="display: none;">
+            </div>
+            <div class="jumbotron floating-window-tip">
+                <h5>Поэтапные<br>пояснения</h5>
+                <input type="button" value=" Включены  " id="disableP" class="btn btn-success">
+            </div>
+        </div>
+    </div>
+  </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2"
+      crossorigin="anonymous"></script>
+    <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.js"></script>
+    <script src="../../js/script.js"></script>
+    <script src="../../js/fullscreen.js"></script>
+</body>
+
+</html>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021.5 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="1092px" height="834px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 1092 834"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil2 {fill:#9D9E9E}
+    .fil1 {fill:#BCBDBD}
+    .fil3 {fill:#CFD0D0}
+    .fil0 {fill:#D9DADA}
+    .fil4 {fill:url(#id0)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="299.85" y1="587.26" x2="790.68" y2="587.26">
+   <stop offset="0" style="stop-opacity:1; stop-color:#434242"/>
+   <stop offset="0.239216" style="stop-opacity:1; stop-color:#8E8E8E"/>
+   <stop offset="0.639216" style="stop-opacity:1; stop-color:#D9DADA"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#9D9E9E"/>
+  </linearGradient>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="болт">
+   <g>
+    <rect id="фаска" class="fil0" x="177.34" y="1.37" width="736.36" height="215.79"/>
+    <path id="сер" class="fil1" d="M299.83 341.53l490.07 0 0 -300.15c-76.33,-26.81 -158.41,-41.38 -243.9,-41.38 -86.34,0 -169.2,14.86 -246.17,42.18l0 299.35 0 0z"/>
+    <path id="лв" class="fil2" d="M54.74 40.73c65.66,-48.92 149.35,-56.23 246.53,0l0 301.48 -246.53 0 0 -301.48z"/>
+    <path id="пр" class="fil3" d="M790.73 40.73c65.67,-48.92 149.35,-56.23 246.53,0l0 301.48 -246.53 0 0 -301.48z"/>
+   </g>
+   <rect id="врх" class="fil4" x="300.03" y="340.88" width="490.74" height="493.12"/>
+  </g>
+ </g>
+</svg>

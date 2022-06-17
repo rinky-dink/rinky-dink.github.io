@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021.5 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="5303px" height="4051px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 5303 4051.07"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:#898989}
+    .fil2 {fill:#727271}
+    .fil0 {fill:#5B5B5B}
+    .fil3 {fill:#434242}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="пластины">
+   <rect id="фон" class="fil0" x="-5.81" y="13.04" width="5303" height="2545.44"/>
+   <g id="пл_x0020_врх">
+    <rect id="пл_x0020_врх_0" class="fil1" x="-5.81" y="13.04" width="5303" height="1272.72"/>
+    <rect id="отв" class="fil0" x="2062.36" y="13.04" width="1166.66" height="1272.72"/>
+   </g>
+   <g id="пл_x0020_ниж">
+    <rect id="пл_x0020_врх_1" class="fil2" x="-5.81" y="1285.76" width="5303" height="1272.72"/>
+    <rect id="отв_2" class="fil3" x="2062.36" y="1285.76" width="1166.66" height="1272.72"/>
+   </g>
+  </g>
+ </g>
+</svg>

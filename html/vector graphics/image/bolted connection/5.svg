@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021.5 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="449px" height="343px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 449 343"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil1 {fill:#E53624;fill-rule:nonzero}
+    .fil0 {fill:url(#id0)}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="-883.65" y1="241.02" x2="380.44" y2="105.12">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2B2A29"/>
+   <stop offset="0.701961" style="stop-opacity:1; stop-color:#B2B3B3"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#898989"/>
+  </linearGradient>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="болт">
+   <polygon id="вну" class="fil0" points="-0.51,83.36 370.45,83.36 370.45,247.32 -0.51,247.32 "/>
+   <polygon id="виток_x0020_" class="fil1" points="444.73,211.34 -0.51,232.29 -0.51,162.68 373.75,144.21 374.12,138.02 444.97,140.39 "/>
+  </g>
+ </g>
+</svg>

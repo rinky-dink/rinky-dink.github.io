@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+<head>
+  <base target="_blank">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+  <link href="../../css/style.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://unpkg.com/flickity@2.3.0/dist/flickity.css">
+  <link rel="stylesheet" href="https://unpkg.com/flickity-fullscreen@1/fullscreen.css">
+  <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+</head>
+
+<body>
+
+  <div class="container">
+    <div class="py-5 text-center">
+      <div class="row">
+        <div class=" col-md-3 order-md-last table-of-contents">
+          <div class=" sticky-top shadow-lg p-3 mb-5 rounded">
+            <h1 style="padding-top: 68px;">Оглавление</h1>
+            <div class="nav flex-column nav-pills me-3" role="tablist" aria-orientation="vertical">
+              <a class="nav-link active" data-bs-toggle="pill" href="#first_scan" aaria-selected="true">1. Скан
+                документа JPG > DOC.</a>
+              <a class="nav-link" data-bs-toggle="pill" href="#second_scan" aria-selected="false">2. Отсканирование
+                книги. </a>
+              <a class="nav-link" data-bs-toggle="pill" href="#third_scan" aria-selected="false">3. Распознование
+                рукописного текста.</a>
+            </div>
+          </div>
+        </div>
+        <div class="contrainer col-xl-9 margin-white-bg p-5 m-0">
+          <h1 id="first_scan">Скан документа JPG > DOC</h1>
+          <h5>Из .JPG сделал документ .DOC, с помощью технологии OCR в программе <a
+              href="https://www.adobe.com/acrobat/acrobat-pro.html">Adobe Acrobat Pro DC</a>.</h5>
+          <div class="carousel" data-flickity='{"fullscreen": true, "wrapAround": true }'>
+            <div class="carousel-cell"> <img src="image/1_1.jpg">
+              <div class="carousel-caption">
+                <p>Исходное изображение формата .JPG.</p>
+              </div>
+            </div>
+            <div class="carousel-cell"> <img src="image/1_2.jpg">
+              <div class="carousel-caption">
+                <p>Создал .PDF файл из .JPG картинки.</p>
+              </div>
+            </div>
+            <div class="carousel-cell"> <img src="image/1_3.jpg">
+              <div class="carousel-caption">
+                <p>Сохранил в виде документа .DOC.</p>
+              </div>
+            </div>
+          </div>
+          <div class="container shadow-lg p-3 mb-5 bg-white rounded">
+            <div class="row">
+              <div class="text-center col-lg-6 col-md-6 col-12">
+                <h4>Скачать исходный JPG файл</h4>
+                <p>Нажмите на кнопку ниже, чтобы скачать изображение с которого было сделан документ формата .JPG</p>
+                <a class="btn btn-primary btn-lg" href="download/Исходное изображение документа.jpg" role="button" download>Скачать</a>
+              </div>
+              <div class="text-center col-lg-6 col-md-6 col-12">
+                <h3>Скачать готовый вариант документа</h3>
+                <p>Нажмите на кнопку ниже, чтобы скачать документ формата .DOCX</p>
+                <a class="btn btn-success btn-lg" href="download/Преобразование из JPG в DOCX.docx" role="button" download>Скачать</a>
+                <p></p>
+              </div>
+            </div>
+          </div>
+
+          <h1 id="second_scan">Отсканирование книги</h1>
+          <h5>С помощью <a href="https://www.google.com/intl/ru/photos/scan/">фотосканера от Google</a>, отсканировал 2
+            страницы в книге.</h5>
+          <div class="carousel" data-flickity='{"fullscreen": true, "wrapAround": true }'>
+            <div class="carousel-cell"> <img src="image/2_1.jpg">
+              <div class="carousel-caption">
+                <p>Процесс фотосканирования.</p>
+              </div>
+            </div>
+            <div class="carousel-cell"> <img src="image/2_2.jpg">
+              <div class="carousel-caption">
+                <p>Первый результат фотосканирования.</p>
+              </div>
+            </div>
+            <div class="carousel-cell"> <img src="image/2_3.jpg">
+              <div class="carousel-caption">
+                <p>Второй результат фотосканирования.</p>
+              </div>
+            </div>
+          </div>
+          <div class="container shadow-lg p-3 mb-5 bg-white rounded">
+            <div class="text-center col-lg-12 col-md-6 col-12">
+              <h4>Скачать отсканираванную версию страниц</h4>
+              <p>Нажмите на кнопку ниже, чтобы скачать скан из книги формата .JPG</p>
+              <a class="btn btn-primary btn-lg" href="download/Скан страниц.jpg" role="button" download>Скачать</a>
+            </div>
+          </div>
+
+          <h1 id="third_scan">Распознование рукописного текста</h1>
+          <h5>Через встроенное приложение <a href="https://lens.google/intl/ru/">Google Объектив</a> в андроиде
+            скопировал текст и вставил в заметки, отсканированный текст можно вставить в любой удобный вам редактор, к
+            примеру Word от Microsoft, чтобы с компьютера открыть этот файл через облако и продолжить редактирование на
+            компьютере.<br>Объектив некоторые буквы не распознал, но если у вас понятный почерк, то все нормально
+            отсканируется, в моём случае я чутка подредактировал текст, все же быстрее чем перепечатовать. Из всех
+            программ по OCR лучше всего себя показал объектив, поэтому и рекомендую его использовать :)</h5>
+          <div class="carousel" data-flickity='{"fullscreen": true, "wrapAround": true }'>
+            <div class="carousel-cell"> <img src="image/3_1.jpg">
+              <div class="carousel-caption">
+                <p>Сканирую текст через Google Объектив.</p>
+              </div>
+            </div>
+            <div class="carousel-cell"> <img src="image/3_2.jpg">
+              <div class="carousel-caption">
+                <p>Вставил и немного отредактирован вставленный текст.</p>
+              </div>
+            </div>
+          </div>
+          <div class="container shadow-lg p-3 mb-5 bg-white rounded">
+            <div class="text-center col-lg-12 col-md-6 col-12">
+              <h4>Скачать отсканированный текст .DOCX формата</h4>
+              <p>Нажмите на кнопку ниже, чтобы скачать результат отсканирования текста с помощью технологи OCR.</p>
+              <a class="btn btn-primary btn-lg" href="download/Разультаты распознования рукописного ввода.docx" role="button" download>Скачать</a>
+            </div>
+          </div>
+        </div>
+      </div>
+      <footer>
+        <div class="container">
+            <div class="col-9">
+                <p>Copyright © Rinky's website. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+    </div>
+  </div>
+  <div class="floating-window">
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <input type="submit" name="image" class="to-up" value="" style="display: none;">
+            </div>
+            <div class="jumbotron floating-window-tip">
+                <h5>Поэтапные<br>пояснения</h5>
+                <input type="button" value=" Включены  " id="disableP" class="btn btn-success">
+            </div>
+        </div>
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2"
+    crossorigin="anonymous"></script>
+  <script src="https://unpkg.com/flickity@2/dist/flickity.pkgd.js"></script>
+  <script src="../../js/script.js"></script>
+  <script src="../../js/fullscreen.js"></script>
+</body>
+
+</html>

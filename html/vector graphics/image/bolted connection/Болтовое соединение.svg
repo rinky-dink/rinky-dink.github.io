@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021.5 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="449px" height="343px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 449 343"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil5 {fill:#D9DADA}
+    .fil7 {fill:#CFD0D0}
+    .fil6 {fill:#BCBDBD}
+    .fil4 {fill:#9D9E9E}
+    .fil1 {fill:#898989}
+    .fil2 {fill:#727271}
+    .fil0 {fill:#5B5B5B}
+    .fil3 {fill:#434242}
+    .fil8 {fill:url(#id0)}
+    .fil38 {fill:url(#id1)}
+    .fil9 {fill:url(#id2)}
+    .fil10 {fill:url(#id3);fill-rule:nonzero}
+    .fil33 {fill:url(#id4);fill-rule:nonzero}
+    .fil17 {fill:url(#id5);fill-rule:nonzero}
+    .fil21 {fill:url(#id6);fill-rule:nonzero}
+    .fil14 {fill:url(#id7);fill-rule:nonzero}
+    .fil13 {fill:url(#id8);fill-rule:nonzero}
+    .fil11 {fill:url(#id9);fill-rule:nonzero}
+    .fil28 {fill:url(#id10);fill-rule:nonzero}
+    .fil12 {fill:url(#id11);fill-rule:nonzero}
+    .fil23 {fill:url(#id12);fill-rule:nonzero}
+    .fil19 {fill:url(#id13);fill-rule:nonzero}
+    .fil16 {fill:url(#id14);fill-rule:nonzero}
+    .fil30 {fill:url(#id15);fill-rule:nonzero}
+    .fil32 {fill:url(#id16);fill-rule:nonzero}
+    .fil29 {fill:url(#id17);fill-rule:nonzero}
+    .fil24 {fill:url(#id18);fill-rule:nonzero}
+    .fil36 {fill:url(#id19);fill-rule:nonzero}
+    .fil26 {fill:url(#id20);fill-rule:nonzero}
+    .fil34 {fill:url(#id21);fill-rule:nonzero}
+    .fil31 {fill:url(#id22);fill-rule:nonzero}
+    .fil18 {fill:url(#id23);fill-rule:nonzero}
+    .fil35 {fill:url(#id24);fill-rule:nonzero}
+    .fil15 {fill:url(#id25);fill-rule:nonzero}
+    .fil27 {fill:url(#id26);fill-rule:nonzero}
+    .fil22 {fill:url(#id27);fill-rule:nonzero}
+    .fil25 {fill:url(#id28);fill-rule:nonzero}
+    .fil20 {fill:url(#id29);fill-rule:nonzero}
+    .fil37 {fill:url(#id30);fill-rule:nonzero}
+   ]]>
+  </style>
+  <linearGradient id="id0" gradientUnits="userSpaceOnUse" x1="190.2" y1="94.06" x2="266.12" y2="94.06">
+   <stop offset="0" style="stop-opacity:1; stop-color:#434242"/>
+   <stop offset="0.235294" style="stop-opacity:1; stop-color:#8E8E8E"/>
+   <stop offset="0.639216" style="stop-opacity:1; stop-color:#D9DADA"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#9D9E9E"/>
+  </linearGradient>
+  <linearGradient id="id1" gradientUnits="userSpaceOnUse" x1="148.14" y1="241.91" x2="308.62" y2="242.42">
+   <stop offset="0" style="stop-opacity:1; stop-color:#434242"/>
+   <stop offset="0.301961" style="stop-opacity:1; stop-color:#7A7A7A"/>
+   <stop offset="0.670588" style="stop-opacity:1; stop-color:#B2B3B3"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#727271"/>
+  </linearGradient>
+  <linearGradient id="id2" gradientUnits="userSpaceOnUse" x1="194.86" y1="246.45" x2="263.15" y2="246.15">
+   <stop offset="0" style="stop-opacity:1; stop-color:#2B2A29"/>
+   <stop offset="0.701961" style="stop-opacity:1; stop-color:#B2B3B3"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#898989"/>
+  </linearGradient>
+  <linearGradient id="id3" gradientUnits="userSpaceOnUse" x1="191.69" y1="340.6" x2="264.57" y2="336.8">
+   <stop offset="0" style="stop-opacity:1; stop-color:#434242"/>
+   <stop offset="0.415686" style="stop-opacity:1; stop-color:#8E8E8E"/>
+   <stop offset="0.658824" style="stop-opacity:1; stop-color:#D9DADA"/>
+   <stop offset="1" style="stop-opacity:1; stop-color:#9D9E9E"/>
+  </linearGradient>
+  <linearGradient id="id4" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="191.68" y1="166.14" x2="264.58" y2="162.58">
+  </linearGradient>
+  <linearGradient id="id5" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="191.68" y1="287.59" x2="264.58" y2="284.03">
+  </linearGradient>
+  <linearGradient id="id6" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="191.68" y1="257.23" x2="264.58" y2="253.67">
+  </linearGradient>
+  <linearGradient id="id7" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="191.68" y1="310.36" x2="264.58" y2="306.8">
+  </linearGradient>
+  <linearGradient id="id8" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="191.68" y1="317.95" x2="264.58" y2="314.39">
+  </linearGradient>
+  <linearGradient id="id9" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="191.68" y1="333.13" x2="264.58" y2="329.58">
+  </linearGradient>
+  <linearGradient id="id10" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="191.68" y1="204.09" x2="264.58" y2="200.53">
+  </linearGradient>
+  <linearGradient id="id11" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="191.68" y1="325.54" x2="264.58" y2="321.98">
+  </linearGradient>
+  <linearGradient id="id12" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="191.68" y1="242.04" x2="264.58" y2="238.49">
+  </linearGradient>
+  <linearGradient id="id13" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="191.68" y1="272.41" x2="264.58" y2="268.85">
+  </linearGradient>
+  <linearGradient id="id14" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="191.68" y1="295.18" x2="264.58" y2="291.62">
+  </linearGradient>
+  <linearGradient id="id15" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="191.68" y1="188.91" x2="264.58" y2="185.35">
+  </linearGradient>
+  <linearGradient id="id16" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="191.68" y1="173.73" x2="264.58" y2="170.17">
+  </linearGradient>
+  <linearGradient id="id17" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="191.68" y1="196.5" x2="264.58" y2="192.94">
+  </linearGradient>
+  <linearGradient id="id18" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="191.68" y1="234.45" x2="264.58" y2="230.9">
+  </linearGradient>
+  <linearGradient id="id19" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="191.68" y1="143.36" x2="264.58" y2="139.81">
+  </linearGradient>
+  <linearGradient id="id20" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="191.68" y1="219.27" x2="264.58" y2="215.71">
+  </linearGradient>
+  <linearGradient id="id21" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="191.68" y1="158.55" x2="264.58" y2="154.99">
+  </linearGradient>
+  <linearGradient id="id22" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="191.68" y1="181.32" x2="264.58" y2="177.76">
+  </linearGradient>
+  <linearGradient id="id23" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="191.68" y1="280" x2="264.58" y2="276.44">
+  </linearGradient>
+  <linearGradient id="id24" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="191.68" y1="150.96" x2="264.58" y2="147.4">
+  </linearGradient>
+  <linearGradient id="id25" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="191.68" y1="302.77" x2="264.58" y2="299.21">
+  </linearGradient>
+  <linearGradient id="id26" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="191.68" y1="211.68" x2="264.58" y2="208.12">
+  </linearGradient>
+  <linearGradient id="id27" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="191.68" y1="249.64" x2="264.58" y2="246.08">
+  </linearGradient>
+  <linearGradient id="id28" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="191.68" y1="226.86" x2="264.58" y2="223.3">
+  </linearGradient>
+  <linearGradient id="id29" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="191.68" y1="264.82" x2="264.58" y2="261.26">
+  </linearGradient>
+  <linearGradient id="id30" gradientUnits="userSpaceOnUse" xlink:href="#id3" x1="191.74" y1="137.31" x2="264.51" y2="132.6">
+  </linearGradient>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="пластины">
+   <rect id="фон" class="fil0" x="38.48" y="55.94" width="379.54" height="182.18"/>
+   <g id="пл_x0020_врх">
+    <rect id="пл_x0020_врх_0" class="fil1" x="38.48" y="55.93" width="379.54" height="91.09"/>
+    <rect id="отв" class="fil0" x="186.5" y="55.93" width="83.5" height="91.09"/>
+   </g>
+   <g id="пл_x0020_ниж">
+    <rect id="пл_x0020_врх_1" class="fil2" x="38.48" y="147.02" width="379.54" height="91.09"/>
+    <rect id="отв_2" class="fil3" x="186.5" y="147.02" width="83.5" height="91.09"/>
+   </g>
+  </g>
+  <g id="болт">
+   <path id="фон_3" class="fil4" d="M304.25 9.48l0 46.64 -38.13 0 0 76.08 -3.9 0 0 208.69 -68.29 0 0 -208.69 -3.73 0 0 -76.08 -37.95 0 0 -46.64c5.53,-4.12 11.89,-6.34 18.97,-6.09l50.02 0c2.32,-0.14 4.66,-0.21 7.01,-0.21 2.36,0 4.7,0.07 7.02,0.21l47.69 0c0.7,-0.02 1.41,-0.02 2.12,0l0.06 0c5.89,0.22 12.29,2.14 19.11,6.09z"/>
+   <g>
+    <rect id="фаска" class="fil5" x="171.22" y="3.39" width="113.92" height="33.38"/>
+    <path id="сер" class="fil6" d="M190.17 56.01l75.81 0 0 -46.43c-11.8,-4.15 -24.5,-6.4 -37.73,-6.4 -13.36,0 -26.17,2.3 -38.08,6.52l0 46.31z"/>
+    <path id="лв" class="fil4" d="M152.25 9.48c10.16,-7.57 23.11,-8.7 38.14,0l0 46.64 -38.14 0 0 -46.64z"/>
+    <path id="пр" class="fil7" d="M266.11 9.48c10.16,-7.57 23.11,-8.7 38.14,0l0 46.64 -38.14 0 0 -46.64z"/>
+   </g>
+   <rect id="врх" class="fil8" x="190.2" y="55.91" width="75.92" height="76.29"/>
+   <g id="резьба">
+    <rect id="вну" class="fil9" x="193.93" y="132.02" width="68.29" height="208.87"/>
+    <g id="витки">
+     <polygon id="виток_x0020_" class="fil10" points="266.19,338.97 194.09,342.36 194.09,342.36 190.29,342.32 190.3,338.94 262.4,335.38 262.42,335.05 266.2,335.18 "/>
+     <polygon id="виток_x0020__4" class="fil11" points="266.19,331.38 194.09,334.77 194.09,335.26 190.29,335.1 190.3,331.35 262.4,327.79 262.42,327.46 266.2,327.59 "/>
+     <polygon id="виток_x0020__5" class="fil12" points="266.19,323.79 194.09,327.18 194.09,327.67 190.29,327.51 190.3,323.76 262.4,320.2 262.42,319.87 266.2,320 "/>
+     <polygon id="виток_x0020__6" class="fil13" points="266.19,316.19 194.09,319.59 194.09,320.08 190.29,319.92 190.3,316.17 262.4,312.61 262.42,312.28 266.2,312.41 "/>
+     <polygon id="виток_x0020__7" class="fil14" points="266.19,308.6 194.09,312 194.09,312.49 190.29,312.33 190.3,308.58 262.4,305.02 262.42,304.69 266.2,304.82 "/>
+     <polygon id="виток_x0020__8" class="fil15" points="266.19,301.01 194.09,304.41 194.09,304.9 190.29,304.74 190.3,300.99 262.4,297.43 262.42,297.1 266.2,297.22 "/>
+     <polygon id="виток_x0020__9" class="fil16" points="266.19,293.42 194.09,296.82 194.09,297.31 190.29,297.15 190.3,293.39 262.4,289.84 262.42,289.51 266.2,289.63 "/>
+     <polygon id="виток_x0020__10" class="fil17" points="266.19,285.83 194.09,289.23 194.09,289.72 190.29,289.56 190.3,285.8 262.4,282.25 262.42,281.92 266.2,282.04 "/>
+     <polygon id="виток_x0020__11" class="fil18" points="266.19,278.24 194.09,281.63 194.09,282.13 190.29,281.97 190.3,278.21 262.4,274.66 262.42,274.33 266.2,274.45 "/>
+     <polygon id="виток_x0020__12" class="fil19" points="266.19,270.65 194.09,274.04 194.09,274.54 190.29,274.38 190.3,270.62 262.4,267.07 262.42,266.73 266.2,266.86 "/>
+     <polygon id="виток_x0020__13" class="fil20" points="266.19,263.06 194.09,266.45 194.09,266.95 190.29,266.79 190.3,263.03 262.4,259.47 262.42,259.14 266.2,259.27 "/>
+     <polygon id="виток_x0020__14" class="fil21" points="266.19,255.47 194.09,258.86 194.09,259.35 190.29,259.2 190.3,255.44 262.4,251.88 262.42,251.55 266.2,251.68 "/>
+     <polygon id="виток_x0020__15" class="fil22" points="266.19,247.88 194.09,251.27 194.09,251.76 190.29,251.6 190.3,247.85 262.4,244.29 262.42,243.96 266.2,244.09 "/>
+     <polygon id="виток_x0020__16" class="fil23" points="266.19,240.29 194.09,243.68 194.09,244.17 190.29,244.01 190.3,240.26 262.4,236.7 262.42,236.37 266.2,236.5 "/>
+     <polygon id="виток_x0020__17" class="fil24" points="266.19,232.7 194.09,236.09 194.09,236.58 190.29,236.42 190.3,232.67 262.4,229.11 262.42,228.78 266.2,228.91 "/>
+     <polygon id="виток_x0020__18" class="fil25" points="266.19,225.11 194.09,228.5 194.09,228.99 190.29,228.83 190.3,225.08 262.4,221.52 262.42,221.19 266.2,221.32 "/>
+     <polygon id="виток_x0020__19" class="fil26" points="266.19,217.51 194.09,220.91 194.09,221.4 190.29,221.24 190.3,217.49 262.4,213.93 262.42,213.6 266.2,213.73 "/>
+     <polygon id="виток_x0020__20" class="fil27" points="266.19,209.92 194.09,213.32 194.09,213.81 190.29,213.65 190.3,209.9 262.4,206.34 262.42,206.01 266.2,206.13 "/>
+     <polygon id="виток_x0020__21" class="fil28" points="266.19,202.33 194.09,205.73 194.09,206.22 190.29,206.06 190.3,202.3 262.4,198.75 262.42,198.42 266.2,198.54 "/>
+     <polygon id="виток_x0020__22" class="fil29" points="266.19,194.74 194.09,198.14 194.09,198.63 190.29,198.47 190.3,194.71 262.4,191.16 262.42,190.83 266.2,190.95 "/>
+     <polygon id="виток_x0020__23" class="fil30" points="266.19,187.15 194.09,190.54 194.09,191.04 190.29,190.88 190.3,187.12 262.4,183.57 262.42,183.24 266.2,183.36 "/>
+     <polygon id="виток_x0020__24" class="fil31" points="266.19,179.56 194.09,182.95 194.09,183.45 190.29,183.29 190.3,179.53 262.4,175.98 262.42,175.64 266.2,175.77 "/>
+     <polygon id="виток_x0020__25" class="fil32" points="266.19,171.97 194.09,175.36 194.09,175.86 190.29,175.7 190.3,171.94 262.4,168.39 262.42,168.05 266.2,168.18 "/>
+     <polygon id="виток_x0020__26" class="fil33" points="266.19,164.38 194.09,167.77 194.09,168.27 190.29,168.11 190.3,164.35 262.4,160.79 262.42,160.46 266.2,160.59 "/>
+     <polygon id="виток_x0020__27" class="fil34" points="266.19,156.79 194.09,160.18 194.09,160.67 190.29,160.51 190.3,156.76 262.4,153.2 262.42,152.87 266.2,153 "/>
+     <polygon id="виток_x0020__28" class="fil35" points="266.19,149.2 194.09,152.59 194.09,153.08 190.29,152.92 190.3,149.17 262.4,145.61 262.42,145.28 266.2,145.41 "/>
+     <polygon id="виток_x0020__29" class="fil36" points="266.19,141.61 194.09,145 194.09,145.49 190.29,145.33 190.3,141.58 262.4,138.02 262.42,137.69 266.2,137.82 "/>
+     <polygon id="виток_x0020__30" class="fil37" points="266.19,134.02 194.09,137.41 194.09,137.9 190.29,137.74 190.3,133.99 262.22,132.02 262.22,132.02 266.2,132.12 "/>
+    </g>
+   </g>
+  </g>
+  <g id="гайка">
+   <rect class="fil5" x="169.76" y="249.56" width="116.11" height="60.61"/>
+   <path id="сер_31" class="fil6" d="M190.3 252.88c21.43,-4.33 46.95,-4.37 75.91,0l0 53.98c-26.68,4.57 -51.98,4.57 -75.91,0l0 -53.98z"/>
+   <path id="лв_32" class="fil4" d="M152.34 252.92c10.94,-4.41 23.47,-4.54 37.96,0l0 53.89c-12.32,4.33 -24.95,4.7 -37.96,0l0 -53.89z"/>
+   <path id="пр_33" class="fil7" d="M266.21 252.87c10.93,-4.42 23.46,-4.55 37.95,0l0 53.97c-12.31,4.33 -24.95,4.7 -37.95,0l0 -53.97z"/>
+  </g>
+  <rect id="шайба" class="fil38" x="144.75" y="238.11" width="167" height="11.39"/>
+ </g>
+</svg>

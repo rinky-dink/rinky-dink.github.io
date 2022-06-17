@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW 2021.5 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="5303px" height="4051px" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 5303 4051.07"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#D9DADA}
+    .fil3 {fill:#CFD0D0}
+    .fil1 {fill:#BCBDBD}
+    .fil2 {fill:#9D9E9E}
+   ]]>
+  </style>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="гайка">
+   <rect class="fil0" x="601.88" y="67.33" width="4055.8" height="2117.25"/>
+   <path id="сер" class="fil1" d="M1319.42 182.98c748.56,-151.23 1640.12,-152.44 2651.5,0l0 1885.66c-931.83,159.77 -1815.65,159.77 -2651.5,0l0 -1885.66z"/>
+   <path id="лв" class="fil2" d="M-6.33 184.6c382.01,-154.1 819.7,-158.72 1325.75,0l0 1882.42c-430.09,151.08 -871.36,164.06 -1325.75,0l0 -1882.42z"/>
+   <path id="пр" class="fil3" d="M3970.92 182.72c382.01,-154.34 819.7,-158.97 1325.75,0l0 1885.29c-430.09,151.31 -871.36,164.31 -1325.75,0l0 -1885.29z"/>
+  </g>
+ </g>
+</svg>

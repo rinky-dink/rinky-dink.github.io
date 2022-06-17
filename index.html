@@ -1,0 +1,90 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>inky</title>
+  <link rel="icon" href="image/logo min.svg" sizes="any" type="image/svg+xml">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet"
+    integrity="sha384-0evHe/X+R7YkIZDRvuzKMRqM+OrBnVFBL6DOitfPri4tjfHxaWutUpFmBp4vmVor" crossorigin="anonymous">
+  <link href="css/style.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.2/font/bootstrap-icons.css"
+    integrity="sha384-eoTu3+HydHRBIjnCVwsFyCpUDZHZSFKEJD0mc3ZqSBSb6YhZzRHeiomAUWCstIWo" crossorigin="anonymous">
+  <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+
+  <style>
+    .custom-toggler .navbar-toggler-icon {
+      background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(168, 176, 231, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E") !important;
+    }
+
+    .custom-toggler.navbar-toggler {
+      border-color: rgb(168, 176, 231) !important;
+    }
+  </style>
+</head>
+
+
+<body>
+  <nav class="navbar navbar-expand-custom navbar-mainbg fixed-top" id="main-nav-bar">
+    <a class="navbar-brand">
+      <input type="image" name="image" src="image/logo.svg" width="82" class="navbar-left" style="vertical-align: middle;
+      margin-left: 50px;">
+    </a>
+    <button class="navbar-toggler custom-toggler" type="button" aria-controls="navbarSupportedContent"
+      aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+      <ul class="nav navbar-nav ms-auto">
+        <div class="hori-selector">
+          <div class="left"></div>
+          <div class="right"></div>
+        </div>
+        <li class="nav-item  active">
+          <a class="nav-link active" href="javascript:void(0);" data-bs-toggle="tab" data-bs-target="#home-tab" role="tab"><i class="bi bi-house"></i>Домашняя</a>  
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="javascript:void(0);" data-bs-toggle="tab" data-bs-target="#scanning-tab" role="tab"><i class="bi bi-images"></i>Сканирование</a> 
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="javascript:void(0);" data-bs-toggle="tab" data-bs-target="#raster-tab" role="tab"><i class="bi bi-images"></i>Растровая графика</a>
+        </li>
+        <li class="nav-item ">
+          <a class="nav-link" href="javascript:void(0);" data-bs-toggle="tab" data-bs-target="#vector-tab" role="tab"><i class="bi bi-circle-square"></i>Векторная графика</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="javascript:void(0);" data-bs-toggle="tab" data-bs-target="#montage-tab" role="tab"><i class="bi bi-play-btn"></i>Видеомонтаж</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="javascript:void(0);" data-bs-toggle="tab" data-bs-target="#about-tab" role="tab"><i class="bi bi-info-circle"></i>Осайте</a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+  <div class="tab-content">
+    <div class="tab-pane fade show in active" id="home-tab" role="tabpanel"> <iframe src="./html/home.html"></iframe></div>
+    <div class="tab-pane fade" id="scanning-tab" role="tabpanel"> <iframe src="./html/scanning/index.html"></iframe></div>
+    <div class="tab-pane fade" id="raster-tab" role="tabpanel"> <iframe src="./html/raster graphics/index.html"></iframe></div>
+    <div class="tab-pane fade" id="vector-tab" role="tabpanel"><iframe src="./html/vector graphics/index.html"></iframe></div>
+    <div class="tab-pane fade" id="montage-tab" role="tabpanel"> <iframe src="./html/video montage/index.html"></iframe></div>
+    <div class="tab-pane fade" id="about-tab" role="tabpanel"><iframe src="./html/about.html"></iframe></div>
+  </div>
+
+
+
+  <div class="preloader">
+    <div class="preloader__row">
+      <div class="preloader__item"></div>
+      <div class="preloader__item"></div>
+    </div>
+  </div>
+
+  <script src="js/navbar.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0-beta1/dist/js/bootstrap.bundle.min.js"
+    integrity="sha384-pprn3073KE6tl6bjs2QrFaJGz5/SUsLqktiwsUTF55Jfv3qYSDhgCecCxMW52nD2"
+    crossorigin="anonymous"></script>
+    <script src="js/script.js"></script>
+</body>
+
+</html>
